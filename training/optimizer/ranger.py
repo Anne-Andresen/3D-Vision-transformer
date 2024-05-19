@@ -1,6 +1,6 @@
 ############
 # https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer
-# This code was taken from the repo above and was not created by me (Fabian)! Full credit goes to the original authors
+#Full credit goes to the original authors
 ############
 
 import math

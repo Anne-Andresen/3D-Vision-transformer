@@ -6,7 +6,7 @@ from nnformer.paths import nnFormer_raw_data
 
 if __name__ == '__main__':
     #data is available at http://medicalsegmentation.com/covid19/
-    download_dir = '/home/fabian/Downloads'
+    download_dir = '/' # path to where u want to store it
 
     task_id = 69
     task_name = "CovidSeg"
