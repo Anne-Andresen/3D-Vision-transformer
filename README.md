@@ -11,7 +11,7 @@ pip install -e .
 
 To train:
 
-nnFormer_convert_decathlon_task -i ../DATASET/nnFormer_raw/nnFormer_raw_data/Task03_tumor
+nnFormer_convert_decathlon_task -i ../DATASET/Former/Former_data/Task01_OAR
 
 nnFormer_plan_and_preprocess -t 1
 
