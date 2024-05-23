@@ -1,8 +1,8 @@
 # 3D-Vision-transformer
 Self configuring and adapting vision transformer for segmentation of 3d images
 
-'''
 
+´´´
 git clone https://github.com/Anne-Andresen/3D-Vision-transformer.git
 cd Former
 conda env create -f environment.yml
@@ -22,7 +22,7 @@ e.g. DATASET_NAME_OR_ID: -t 1
 e.g. [0, 1, 2, 3, 4]
 
 
-'''
+´´´
 You can reach me here or on email: aha.andresen@gmail.com or anan@clin.au.dk
 
 TODO:
